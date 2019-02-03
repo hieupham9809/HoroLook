@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "943194304584",
+    "firebase_url": "https://horolook-mhp.firebaseio.com",
+    "project_id": "horolook-mhp",
+    "storage_bucket": "horolook-mhp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943194304584:android:62cac97a5705e9ab",
+        "android_client_info": {
+          "package_name": "com.minhhieu.horolook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943194304584-ohadvta6qmiu73i4ghjd9jhkp3l5i3ge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minhhieu.horolook",
+            "certificate_hash": "065777b8be3a9a87da79d6ca1e4dc288d51b149a"
+          }
+        },
+        {
+          "client_id": "943194304584-3omo3bcvhn72lsfu62bupjie9degpvd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQDHvUIEIOe5G3LaXo88dr4U40XMcTzuw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943194304584-3omo3bcvhn72lsfu62bupjie9degpvd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
